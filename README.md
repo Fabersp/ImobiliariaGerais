@@ -86,22 +86,17 @@ Update the configuration files for API and Firebase:
 
 ---
 
-## 🐞 **Known Issues**  
-- Some images may take time to load without stable internet.  
-- Filtering by location may return delayed results.  
+## 🧑‍💻 **Developers**
+
+- **Lead Developer:** Fabricio Aguiar de Padua
+- **LinkedIn:** www.linkedin.com/fabricio-padua  
+- **contact:** fabricio_0505_@hotmail.com
 
 ---
 
 ## 📄 **License**  
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
 
----
 
-## 📧 **Contact**  
-- **App Name:** ImobiliariaGerais  
-- **Developer:** Fabricio Padua  
-- **Email:** fabricio_0505_@hotmail.com
-- **Linkedin:** www.linkedin.com/fabricio-padua
-- **Year of Creation:** **2016**
 
 
